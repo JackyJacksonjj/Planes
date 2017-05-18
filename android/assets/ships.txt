@@ -1,0 +1,26 @@
+ships.png
+size: 240, 80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brown_space_ship
+  rotate: false
+  xy: 0, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+purple_space_ship
+  rotate: false
+  xy: 80, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+red_space_ship
+  rotate: false
+  xy: 160, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

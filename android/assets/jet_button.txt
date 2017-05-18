@@ -1,0 +1,19 @@
+jet_button.png
+size: 256, 128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jet_fighter
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jet_fighter_pressed
+  rotate: false
+  xy: 128, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
